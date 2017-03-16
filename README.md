@@ -9,7 +9,7 @@
 ![](graphics/screenshots/readme.png)
 
 <p align="right">
-<a href='https://github.com/xiprox/Youkai/releases/latest'><img height="48" alt='Get apk' src='https://cloud.githubusercontent.com/assets/2550945/21590907/dd74e0f0-d0ff-11e6-971f-d429148fd03d.png'/></a>
+<a href='https://github.com/xiprox/Timetable/releases/latest'><img height="48" alt='Get apk' src='https://cloud.githubusercontent.com/assets/2550945/21590907/dd74e0f0-d0ff-11e6-971f-d429148fd03d.png'/></a>
 </p>
 
 ## What is this?
